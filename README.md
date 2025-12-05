@@ -18,7 +18,7 @@ Combina mecánicas clásicas de *Bullet Hell* con patrones de enemigos procedura
 
 Puedes jugar la versión Web (HTML5) directamente en tu navegador:
 
-👉 **[Jugar Alien Attack Online](LINK_A_TU_GITHUB_PAGES)**
+👉 **[Jugar Alien Attack Online](https://raulcamaracarreon.github.io/Alien-Attack-Pico8/)**
 
 *(Controles: Flechas para mover, Z para disparar/aceptar, X para pausar/atrás)*
 
